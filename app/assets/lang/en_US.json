@@ -1,14 +1,14 @@
 {
     "html": {
-        "avatarOverlay": "Edit"
+        "avatarOverlay": "Modifier"
     },
     "js": {
         "login": {
             "error": {
-                "invalidValue": "* Invalid Value",
-                "requiredValue": "* Required",
+                "invalidValue": "*  Valeur inscorrecte",
+                "requiredValue": "* Requis",
                 "userMigrated": {
-                    "title": "Error During Login:<br>Invalid Credentials",
+                    "title": "Erreur durant la connexion:<br>Identifiants invalides",
                     "desc": "You've attempted to login with a migrated account. Try again using the account email as the username."
                 },
                 "invalidCredentials": {
